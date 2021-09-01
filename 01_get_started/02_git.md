@@ -1,5 +1,6 @@
 # Git basics
 
+> NOTE: Highly recommend to NOT install any desktop tools to work with Git, and run all commands manually from terminal.
 ## Resources
 
 - [Interactive tour](https://githowto.com/ru/setup): really good guide to make your first steps with Git
