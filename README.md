@@ -1,4 +1,4 @@
 # course
 Learning course for newbies
 
-Some changes
+Some changes, and a few more things
