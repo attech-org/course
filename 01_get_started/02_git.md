@@ -22,5 +22,5 @@
 
 ## Task 3*
 
-1. Make a Pull Request on GitHub from your branch to `main`
+1. Make a [Pull Request on GitHub](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) from your branch to `main`
 2. Add me and few other students as a reviewer
