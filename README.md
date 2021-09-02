@@ -5,6 +5,7 @@ Learning course for newbies
 
 - Maksim Fomin: fominmaksim 
 - Andrew Kaenko: AndrewKaenko
+- Алексей Мищенко: AlexMishenko
 <!-- example:
 
 - Elon Musk: elonmusk777
