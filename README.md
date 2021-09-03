@@ -1,5 +1,5 @@
 # course
-Learning course for newbies
+Learning course for newbies. I'll add some stuff
 
 ## Students list
 
