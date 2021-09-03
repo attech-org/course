@@ -5,7 +5,7 @@ Learning course for newbies
 
 - Maksim Fomin: fominmaksim 
 - Andrew Kaenko: AndrewKaenko
-- Алексей Мищенко: AlexMishenko
+- Alex Mishenko: AlexMishenko
 - Eduard Valevich: EduardValevich
 <!-- example:
 
