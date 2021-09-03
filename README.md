@@ -1,5 +1,5 @@
 # course
-Learning course for newbies
+Learning course for newbies. I'm bad developer and do stuff from GitHub
 
 ## Students list
 
