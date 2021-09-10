@@ -13,6 +13,7 @@ Using only HTML and CSS implement multi step form with navigation between steps.
 - no JS
 - don't need to save any values and manipulate with entered data
 - user should be able to navigate between steps with buttons: "Previous" and "Next"
+- form styles is optional, so feel free to show your UI/UX skills
 
 > TIP: Each form step it's separate HTML file, but this task it's not a best practice and used for training purposes only. In real world you'll never navigate between two HTML files to operate one form
 
