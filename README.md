@@ -12,3 +12,4 @@ Learning course for newbies. I'll add some stuff. I'm bad developer and do stuff
 - Ivan Lysenko: IvanLsenko
 
 ### Group #2
+Vladislav Pokhyl
