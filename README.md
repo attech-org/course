@@ -15,3 +15,4 @@ Learning course for newbies. I'll add some stuff. I'm bad developer and do stuff
 ### Group #2
 
 - Roman Sokurenko: RomanSokurenko
+- Evgeniy Dotsenko: EvgenyDotsenko
