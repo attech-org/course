@@ -5,7 +5,8 @@ Learning course for newbies. I'll add some stuff. I'm bad developer and do stuff
 ## Students list
 
 ### Group #1
-- Maksim Fomin: fominmaksim 
+
+- Maksim Fomin: fominmaksim
 - Andrew Kaenko: AndrewKaenko
 - Alex Mishenko: AlexMishenko
 - Eduard Valevich: EduardValevich
@@ -13,3 +14,5 @@ Learning course for newbies. I'll add some stuff. I'm bad developer and do stuff
 
 ### Group #2
 - Vladislav Pokhyl : VladFlaber
+- Roman Sokurenko: RomanSokurenko
+- Evgeniy Dotsenko: EvgenyDotsenko
