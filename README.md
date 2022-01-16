@@ -17,3 +17,4 @@ Learning course for newbies. I'll add some stuff. I'm bad developer and do stuff
 - Roman Sokurenko: RomanSokurenko
 - Evgeniy Dotsenko: EvgenyDotsenko
 - David Korystov: DavidKorystov
+- Pavel Borisenko: PavelBorisenkoRD
