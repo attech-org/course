@@ -19,3 +19,4 @@ Learning course for newbies. I'll add some stuff. I'm bad developer and do stuff
 - David Korystov: DavidKorystov
 - Pavel Borisenko: PavelBorisenkoRD
 - Vasiliy Gladush: vasyagladush
+- Vladislav Kalyuzhnyi: Vlad-bog
