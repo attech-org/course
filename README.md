@@ -27,3 +27,4 @@ Learning course for newbies. I'll add some stuff. I'm bad developer and do stuff
 - Olexandr Pysarev: olexandrpysarev
 - Vitalii Denysyuk: VitaliiDenysyuk
 - Maksim Tretyakov: Tretmax
+- Timur Bolotskij: timurkinsan
