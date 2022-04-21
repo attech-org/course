@@ -19,9 +19,9 @@ Learning course for newbies. I'll add some stuff. I'm bad developer and do stuff
 - David Korystov: DavidKorystov
 - Pavel Borisenko: PavelBorisenkoRD
 - Vasiliy Gladush: vasyagladush
-- Vladislav Kalyuzhnyi: Vlad-bog
 
 ### Group #4
+- Paukov Nikita: NikPaukov
 - Dmytro Barylo: Barylo
 - Mykyta Pysarev: Mykyta-Pysarev
 - Olexandr Pysarev: olexandrpysarev
