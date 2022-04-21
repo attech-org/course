@@ -13,18 +13,16 @@ Learning course for newbies. I'll add some stuff. I'm bad developer and do stuff
 - Ivan Lysenko: IvanLsenko
 
 ### Group #2
-- Vladislav Pokhyl : VladFlaber
+- Vladislav Pokhyl: VladFlaber
 - Roman Sokurenko: RomanSokurenko
 - Evgeniy Dotsenko: EvgenyDotsenko
 - David Korystov: DavidKorystov
 - Pavel Borisenko: PavelBorisenkoRD
 - Vasiliy Gladush: vasyagladush
-
-
-### Group #4
-- Mykyta Pysarev : Mykyta-Pysarev
-- Olexandr Pysarev: olexandrpysarev
-- Vitalii Denysyuk: VitaliiDenysyuk
 - Vladislav Kalyuzhnyi: Vlad-bog
 
-
+### Group #4
+- Dmytro Barylo: Barylo
+- Mykyta Pysarev: Mykyta-Pysarev
+- Olexandr Pysarev: olexandrpysarev
+- Vitalii Denysyuk: VitaliiDenysyuk
