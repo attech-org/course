@@ -21,4 +21,5 @@ Learning course for newbies. I'll add some stuff. I'm bad developer and do stuff
 - Vasiliy Gladush: vasyagladush
 
 ### Group #4
-- Olexandr Pysarev : olexandrpysarev
+- Olexandr Pysarev: olexandrpysarev
+- Vitalii Denysyuk: VitaliiDenysyuk
