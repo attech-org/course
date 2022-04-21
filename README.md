@@ -20,9 +20,5 @@ Learning course for newbies. I'll add some stuff. I'm bad developer and do stuff
 - Pavel Borisenko: PavelBorisenkoRD
 - Vasiliy Gladush: vasyagladush
 
-### Attempt4
-
+### Group #4
 - Dmytro Barylo : Barylo
-
-Additional comment for my pull request:
-Please review my code, if anything wrong - I'll fix it, let me know. If everything is all right - then please merge it with yours.
