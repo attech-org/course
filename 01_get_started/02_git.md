@@ -20,11 +20,13 @@
 2. Make a branch from `main` with your username in branch name. For example: `alexandr-branch`, `feat/alexandr`.
 3. Edit README.md file by adding your GitHub username and full name to "Students list".
 4. Commit changes and push it to GitHub.
+Play videogames
 
 ## Task 3
 
 1. Make a [Pull Request on GitHub](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) from your branch to `main`.
 2. Add me and few other students as a reviewer.
+Watch movies
 
 ## Task 4
 
@@ -34,18 +36,4 @@
 4. Merge `main` with created branch by resolving conflicts.
     > "merge X with Y" usually confusing developers, but it means that **Y** is a base branch, and **X** it's a branch that you merging into base
 5. After successfull merge, push your branch to GitHub
-=======
-Do nothing
 
-## Task 2
-
-Play videogames
-
-## Task 3
-
-Watch movies
-
-## Task 4
-
-Listen music
->>>>>>> dc7022add214967d1ad3b47336410350eb4f4051
