@@ -19,7 +19,7 @@
 2. Make a branch from `main` with your username in branch name. For example: `alexandr-branch`, `feat/alexandr`.
 3. Edit README.md file by adding your GitHub username and full name to "Students list".
 4. Commit changes and push it to GitHub.
-Play videogames
+5. Play videogames
 
 ## Task 3
 
