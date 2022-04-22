@@ -9,6 +9,7 @@ Learning course for newbies. I'll add some stuff. I'm bad developer and do stuff
 > data lost
 
 ### Group #2
+
 - Maksim Fomin: [fominmaksim](https://github.com/fominmaksim)
 - Andrew Kaenko: [AndrewKaenko](https://github.com/AndrewKaenko)
 - Alex Mishenko: [AlexMishenko](https://github.com/AlexMishenko)
@@ -16,6 +17,7 @@ Learning course for newbies. I'll add some stuff. I'm bad developer and do stuff
 - Ivan Lysenko: [IvanLsenko](https://github.com/IvanLsenko)
 
 ### Group #3
+
 - Vladislav Pokhyl: [VladFlaber](https://github.com/VladFlaber)
 - Roman Sokurenko: [RomanSokurenko](https://github.com/RomanSokurenko)
 - Evgeniy Dotsenko: [EvgenyDotsenko](https://github.com/EvgenyDotsenko)
@@ -24,6 +26,8 @@ Learning course for newbies. I'll add some stuff. I'm bad developer and do stuff
 - Vasiliy Gladush: [vasyagladush](https://github.com/vasyagladush)
 
 ### Group #4
+
+- Kirill Sergienko student: [kirillSerg](https://github.com/KirillSerg)
 - Dmytro Tikhostup: [DmytroTikhostup](https://github.com/DmytroTikhostup)
 - Paukov Nikita:[NikPaukov](https://github.com/NikPaukov)
 - Dmytro Barylo: [Barylo](https://github.com/Barylo)
