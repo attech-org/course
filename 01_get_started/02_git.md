@@ -30,4 +30,5 @@
 1. Use local version of the repo from Task 2-3.
 2. Pull latest changes from GitHub.
 3. Create your branch based on `training/merge-conflicts`.
-4. Merge created branch with `main` by resolving conflicts.
+4. Merge `main` with created branch by resolving conflicts.
+    > "merge X with Y" usually confusing developers, but it means that **Y** is a base branch, and **X** it's a branch that you merging into base
