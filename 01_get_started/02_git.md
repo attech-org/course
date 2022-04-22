@@ -20,7 +20,14 @@
 3. Edit README.md file by adding your GitHub username and full name to "Students list".
 4. Commit changes and push it to GitHub
 
-## Task 3*
+## Task 3
 
 1. Make a [Pull Request on GitHub](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) from your branch to `main`
 2. Add me and few other students as a reviewer
+
+## Task 4
+
+1. Use local version of the repo from Task 2-3
+2. Pull latest changes from GitHub
+3. Create your branch based on `training/merge-conflicts`
+4. Merge created branch with `main` by resolving conflicts
