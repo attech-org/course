@@ -33,4 +33,3 @@
 4. Merge `main` with created branch by resolving conflicts.
     > "merge X with Y" usually confusing developers, but it means that **Y** is a base branch, and **X** it's a branch that you merging into base
 5. After successfull merge, push your branch to GitHub
->>>>>>> main
