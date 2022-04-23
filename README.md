@@ -27,6 +27,7 @@ Learning course for newbies. I'll add some stuff. I'm bad developer and do stuff
 
 ### Group #4
 
+- Oleh Kostyrkin:[olehkostyrkin](https://github.com/olehkostyrkin)
 - Kirill Sergienko student: [kirillSerg](https://github.com/KirillSerg)
 - Dmytro Tikhostup: [DmytroTikhostup](https://github.com/DmytroTikhostup)
 - Paukov Nikita:[NikPaukov](https://github.com/NikPaukov)
@@ -38,4 +39,4 @@ Learning course for newbies. I'll add some stuff. I'm bad developer and do stuff
 - Timur Bolotskij: [timurkinsan](https://github.com/timurkinsan)
 - Artem Ligerko: [ArtemLigerko](https://github.com/ArtemLigerko)
 - Misha Krasnoshokov: [Krasnoshokov-Misha](https://github.com/Krasnoshokov-Misha)
-- Oleh Kostyrkin:[olehkostyrkin](https://github.com/olehkostyrkin)
+
