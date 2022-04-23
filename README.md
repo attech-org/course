@@ -1,7 +1,6 @@
 # course
 
-Learning course for newbies. I'll add some stuff. I'm bad developer and do stuff from GitHub
-This is a conflict between branches: training/merge-conflict_DmytroBarylo and main
+blu blu blu
 
 ## Students list
 
