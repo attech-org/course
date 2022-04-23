@@ -6,29 +6,31 @@ Learning course for newbies. I'll add some stuff. I'm bad developer and do stuff
 
 ### Group #1
 
-- Maksim Fomin: fominmaksim
-- Andrew Kaenko: AndrewKaenko
-- Alex Mishenko: AlexMishenko
-- Eduard Valevich: EduardValevich
-- Ivan Lysenko: IvanLsenko
+> data lost
 
 ### Group #2
-- Vladislav Pokhyl: VladFlaber
-- Roman Sokurenko: RomanSokurenko
-- Evgeniy Dotsenko: EvgenyDotsenko
-- David Korystov: DavidKorystov
-- Pavel Borisenko: PavelBorisenkoRD
-- Vasiliy Gladush: vasyagladush
+- Maksim Fomin: [fominmaksim](https://github.com/fominmaksim)
+- Andrew Kaenko: [AndrewKaenko](https://github.com/AndrewKaenko)
+- Alex Mishenko: [AlexMishenko](https://github.com/AlexMishenko)
+- Eduard Valevich: [EduardValevich](https://github.com/EduardValevich)
+- Ivan Lysenko: [IvanLsenko](https://github.com/IvanLsenko)
+
+### Group #3
+- Vladislav Pokhyl: [VladFlaber](https://github.com/VladFlaber)
+- Roman Sokurenko: [RomanSokurenko](https://github.com/RomanSokurenko)
+- Evgeniy Dotsenko: [EvgenyDotsenko](https://github.com/EvgenyDotsenko)
+- David Korystov: [DavidKorystov](https://github.com/DavidKorystov)
+- Pavel Borisenko: [PavelBorisenkoRD](https://github.com/PavelBorisenkoRD)
+- Vasiliy Gladush: [vasyagladush](https://github.com/vasyagladush)
 
 ### Group #4
-- Dmytro Tikhostup: DmytroTikhostup
-- Paukov Nikita: NikPaukov
-- Dmytro Barylo: Barylo
-- Mykyta Pysarev: Mykyta-Pysarev
-- Olexandr Pysarev: olexandrpysarev
-- Vitalii Denysyuk: VitaliiDenysyuk
-- Maksim Tretyakov: Tretmax
-- Timur Bolotskij: timurkinsan
-- Artem Ligerko: ArtemLigerko
-- Misha Krasnoshokov: Krasnoshokov-Misha
- 
+- Dmytro Tikhostup: [DmytroTikhostup](https://github.com/DmytroTikhostup)
+- Paukov Nikita:[NikPaukov](https://github.com/NikPaukov)
+- Dmytro Barylo: [Barylo](https://github.com/Barylo)
+- Mykyta Pysarev: [Mykyta-Pysarev](https://github.com/Mykyta-Pysarev)
+- Olexandr Pysarev: [olexandrpysarev](https://github.com/olexandrpysarev)
+- Vitalii Denysyuk: [VitaliiDenysyuk](https://github.com/VitaliiDenysyuk)
+- Maksim Tretyakov: [Tretmax](https://github.com/Tretmax)
+- Timur Bolotskij: [timurkinsan](https://github.com/timurkinsan)
+- Artem Ligerko: [ArtemLigerko](https://github.com/ArtemLigerko)
+- Misha Krasnoshokov: [Krasnoshokov-Misha](https://github.com/Krasnoshokov-Misha)
