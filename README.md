@@ -33,3 +33,4 @@ Learning course for newbies. I'll add some stuff. I'm bad developer and do stuff
 - Maksim Tretyakov: [Tretmax](https://github.com/Tretmax)
 - Timur Bolotskij: [timurkinsan](https://github.com/timurkinsan)
 - Artem Ligerko: [ArtemLigerko](https://github.com/ArtemLigerko)
+- Misha Krasnoshokov: [Krasnoshokov-Misha](https://github.com/Krasnoshokov-Misha)
