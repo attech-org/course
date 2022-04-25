@@ -39,4 +39,4 @@ Learning course for newbies. I'll add some stuff. I'm bad developer and do stuff
 - Timur Bolotskij: [timurkinsan](https://github.com/timurkinsan)
 - Artem Ligerko: [ArtemLigerko](https://github.com/ArtemLigerko)
 - Misha Krasnoshokov: [Krasnoshokov-Misha](https://github.com/Krasnoshokov-Misha)
-
+- Valerii Suvyk: [valeriisuvyk](https://github.com/valeriisuvyk)
