@@ -8,21 +8,6 @@
 
 ## Task 1
 
-<<<<<<< HEAD
-Do nothing
-
-## Task 2
-
-Play videogames
-
-## Task 3
-
-Watch movies
-
-## Task 4
-
-Listen music
-=======
 1. [Connect your local machine with your GitHub account by SSH](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh).
 2. Initialize local repository, add README.md file and make a few commits (at least 10).
 3. Create a few branches with next names: `develop`, `test` and try to switch between them.
@@ -48,4 +33,3 @@ Listen music
 4. Merge `main` with created branch by resolving conflicts.
     > "merge X with Y" usually confusing developers, but it means that **Y** is a base branch, and **X** it's a branch that you merging into base
 5. After successfull merge, push your branch to GitHub
->>>>>>> main
