@@ -26,7 +26,7 @@ Learning course for newbies. I'll add some stuff. I'm bad developer and do stuff
 ### Group #4
 - Dmytro Tikhostup: [DmytroTikhostup](https://github.com/DmytroTikhostup)
 - Paukov Nikita:[NikPaukov](https://github.com/NikPaukov)
-- Dmytro Barylo: [Barylo](https://github.com/Barylo)
+MBarylo
 - Mykyta Pysarev: [Mykyta-Pysarev](https://github.com/Mykyta-Pysarev)
 - Olexandr Pysarev: [olexandrpysarev](https://github.com/olexandrpysarev)
 - Vitalii Denysyuk: [VitaliiDenysyuk](https://github.com/VitaliiDenysyuk)
