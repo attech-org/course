@@ -30,5 +30,5 @@ Learning course for newbies. I'll add some stuff. I'm bad developer and do stuff
 - Maksim Tretyakov: Tretmax
 - Timur Bolotskij: timurkinsan
 - Artem Ligerko: ArtemLigerko
-sogks
+- heuikjj
  
