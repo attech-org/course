@@ -26,3 +26,5 @@ Using only HTML and CSS implement next button animation.
 ## Task 3\*
 
 Using only HTML and CSS try to implement a timer with one rotating arrow. It should make one circle in one minute. Feel free to use [this background](https://thumbs.dreamstime.com/z/clock-dial-clock-dial-round-clock-numbers-no-minutes-141155031.jpg) or implement your own using dashed border (numbers not required).
+
+![clock](https://user-images.githubusercontent.com/28801003/166160639-f8b167c0-3807-4936-99cc-d1fc24be76b9.gif)
