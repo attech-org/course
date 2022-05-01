@@ -19,9 +19,9 @@ Using only HTML and CSS implement next animation of rotating element. Should rot
 
 Using only HTML and CSS implement next button animation. Should start animation when user hover button:
 
-- https://i.pinimg.com/originals/2b/e9/24/2be924f383a0e91967147c95096081b2.gif
-- https://images.squarespace-cdn.com/content/v1/5ba5e044b10f25cb908c506f/1565558733719-RNYRJ85Z77TKS99RZH80/image-asset.gif
-- https://bestof.nyc3.digitaloceanspaces.com/devsnap.me/sam/flat-buttons.gif
+- ![button](https://user-images.githubusercontent.com/28801003/166154150-153b45b3-9cb8-4517-9e96-e5151d4b851a.gif)
+- ![waves](https://user-images.githubusercontent.com/28801003/166154717-4cfd82df-f4ce-4ee4-8da4-805d15b6b9aa.gif)
+- ![button with text](https://user-images.githubusercontent.com/28801003/166155025-7912a407-1033-4a23-bfd8-77be5436e1be.gif)
 
 ## Task 3\*
 
