@@ -2,7 +2,7 @@
 
 Create a new repo for these tasks. Publish completed tasks to GitHub Pages.
 
-## Resources
+## Task 0
 
 Research next topics:
 
