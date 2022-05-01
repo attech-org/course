@@ -38,3 +38,5 @@ Learning course for newbies. I'll add some stuff. I'm bad developer and do stuff
 9. Artem Ligerko: [ArtemLigerko](https://github.com/ArtemLigerko)
 10. Misha Krasnoshokov: [Krasnoshokov-Misha](https://github.com/Krasnoshokov-Misha)
 11. Kirill Sergienko student: [kirillSerg](https://github.com/KirillSerg)
+12. Oleh Kostyrkin:[olehkostyrkin](https://github.com/olehkostyrkin)
+13. Valerii Suvyk: [valeriisuvyk](https://github.com/valeriisuvyk)
