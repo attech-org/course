@@ -40,3 +40,4 @@ Learning course for newbies. I'll add some stuff. I'm bad developer and do stuff
 11. Kirill Sergienko student: [kirillSerg](https://github.com/KirillSerg)
 12. Oleh Kostyrkin:[olehkostyrkin](https://github.com/olehkostyrkin)
 13. Valerii Suvyk: [valeriisuvyk](https://github.com/valeriisuvyk)
+14. Matvey Barylo: [MBarylo](https://github.com/MBarylo)
