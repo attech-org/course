@@ -42,3 +42,4 @@ Learning course for newbies. I'll add some stuff. I'm bad developer and do stuff
 13. Valerii Suvyk: [valeriisuvyk](https://github.com/valeriisuvyk)
 14. Matvey Barylo: [MBarylo](https://github.com/MBarylo)
 15. Mark Yaryha: [MarkYaryha](https://github.com/MarkYaryha)
+16. Dima Volikov [DimaVolikov](https://github.com/DimaVolikov)
