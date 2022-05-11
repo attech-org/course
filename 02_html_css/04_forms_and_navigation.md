@@ -16,6 +16,8 @@ Rules:
 - form styles is optional, so feel free to show your UI/UX skills
 - every form input should use proper ["type"](https://www.w3schools.com/html/html_form_input_types.asp)
 
+Images:
+
 <details>
   <summary>empty</summary>
 
