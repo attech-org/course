@@ -8,7 +8,7 @@ Research next topics:
 - HTML Forms (complete tasks inside): https://developer.mozilla.org/ru/docs/Learn/Forms
 
 ## Task 1
-Using only HTML and CSS implement multi step form with navigation between steps.
+Using only HTML and CSS implement form.
 
 ### Rules:
 - no JS
@@ -45,3 +45,5 @@ Using only HTML and CSS implement multi step form with navigation between steps.
     ![url field validation](https://user-images.githubusercontent.com/28801003/167963527-e17b7845-f478-4279-8b7f-22cbbb23119c.png)
 
   </details>
+
+## Task 2
