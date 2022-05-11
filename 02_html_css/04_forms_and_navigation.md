@@ -16,14 +16,30 @@ Rules:
 - form styles is optional, so feel free to show your UI/UX skills
 - every form input should use proper ["type"](https://www.w3schools.com/html/html_form_input_types.asp)
 
-### empty
-![empty form](https://user-images.githubusercontent.com/28801003/167963161-ee2b9897-5251-4f73-baf8-2622447305bc.png)
+<details>
+  <summary>empty</summary>
 
-### autocomplete
-![autocomplete form](https://user-images.githubusercontent.com/28801003/167963343-702b6497-b2b5-4954-8658-23b1c1b8104f.png)
+  ![empty form](https://user-images.githubusercontent.com/28801003/167963161-ee2b9897-5251-4f73-baf8-2622447305bc.png)
 
-### required validation
-![required field validation](https://user-images.githubusercontent.com/28801003/167963648-40064ca1-f30c-49f4-91f6-9c3720bf0be6.png)
+</details>
 
-### type validation
-![url field validation](https://user-images.githubusercontent.com/28801003/167963527-e17b7845-f478-4279-8b7f-22cbbb23119c.png)
+<details>
+  <summary>autocomplete</summary>
+
+  ![autocomplete form](https://user-images.githubusercontent.com/28801003/167963343-702b6497-b2b5-4954-8658-23b1c1b8104f.png)
+
+</details>
+
+<details>
+  <summary>required validation</summary>
+
+  ![required field validation](https://user-images.githubusercontent.com/28801003/167963648-40064ca1-f30c-49f4-91f6-9c3720bf0be6.png)
+
+</details>
+
+<details>
+  <summary>type validation</summary>
+
+  ![url field validation](https://user-images.githubusercontent.com/28801003/167963527-e17b7845-f478-4279-8b7f-22cbbb23119c.png)
+
+</details>
