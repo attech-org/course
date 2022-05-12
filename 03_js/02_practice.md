@@ -1,6 +1,6 @@
 # Practical tasks for JS
 
-## Mock data
+<!-- ## Mock data
 
 <details>
   <summary>users</summary>
@@ -145,11 +145,11 @@
     }
   ]
   ```
-</details>
+</details> -->
 
 ## Level 1
 
-Basics, cycles, functions
+To start solving this level, you should pass JS basics, cycles and functions.
 
 ### Symbols counter
 
