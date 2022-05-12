@@ -16,33 +16,33 @@ Using only HTML and CSS implement form with next requirements:
 
 ### Images:
 
-  <details>
-    <summary>empty</summary>
+<details>
+  <summary>empty</summary>
 
-    ![empty form](https://user-images.githubusercontent.com/28801003/167963161-ee2b9897-5251-4f73-baf8-2622447305bc.png)
+  ![empty form](https://user-images.githubusercontent.com/28801003/167963161-ee2b9897-5251-4f73-baf8-2622447305bc.png)
 
-  </details>
+</details>
 
-  <details>
-    <summary>autocomplete</summary>
+<details>
+  <summary>autocomplete</summary>
 
-    ![autocomplete form](https://user-images.githubusercontent.com/28801003/167963343-702b6497-b2b5-4954-8658-23b1c1b8104f.png)
+  ![autocomplete form](https://user-images.githubusercontent.com/28801003/167963343-702b6497-b2b5-4954-8658-23b1c1b8104f.png)
 
-  </details>
+</details>
 
-  <details>
-    <summary>required validation</summary>
+<details>
+  <summary>required validation</summary>
 
-    ![required field validation](https://user-images.githubusercontent.com/28801003/167963648-40064ca1-f30c-49f4-91f6-9c3720bf0be6.png)
+  ![required field validation](https://user-images.githubusercontent.com/28801003/167963648-40064ca1-f30c-49f4-91f6-9c3720bf0be6.png)
 
-  </details>
+</details>
 
-  <details>
-    <summary>type validation</summary>
+<details>
+  <summary>type validation</summary>
 
-    ![url field validation](https://user-images.githubusercontent.com/28801003/167963527-e17b7845-f478-4279-8b7f-22cbbb23119c.png)
+  ![url field validation](https://user-images.githubusercontent.com/28801003/167963527-e17b7845-f478-4279-8b7f-22cbbb23119c.png)
 
-  </details>
+</details>
 
 ## Task 2 
 
