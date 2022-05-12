@@ -8,13 +8,11 @@ Research next topics:
 - HTML Forms (complete tasks inside): https://developer.mozilla.org/ru/docs/Learn/Forms
 
 ## Task 1
-Using only HTML and CSS implement form.
+Using only HTML and CSS implement form with next requirements:
 
-### Rules:
 - no JS
-- don't need to save any values and manipulate with entered data
 - form styles is optional, so feel free to show your UI/UX skills
-- every form input should use proper ["type"](https://www.w3schools.com/html/html_form_input_types.asp)
+- each form input should use proper ["type"](https://www.w3schools.com/html/html_form_input_types.asp)
 
 ### Images:
 
@@ -46,4 +44,40 @@ Using only HTML and CSS implement form.
 
   </details>
 
-## Task 2
+## Task 2 
+
+Usually, to improve the UX, such large forms need to be broken into several small forms that are connected to each other in one flow. Create a multi-page form with the same fields and rules, but split across multiple pages.
+
+Use two methods of navigation: [form action](https://www.w3schools.com/tags/att_form_action.asp) – to move forward and [links](https://www.w3schools.com/tags/tag_a.asp) – to move back. In this scenario is expected to throw user data from filled inputs, as [query parameters](https://en.wikipedia.org/wiki/Query_string) to next page as GET request. Pay attention to address bar on example screenshots, to see how it should work.
+
+> NOTE: For better understanding, how form action works, I'd recommend to read about [HTTP requests](https://www.w3schools.com/tags/ref_httpmethods.asp).
+
+### Images:
+
+<details>
+  <summary>general</summary>
+
+  ![general](https://user-images.githubusercontent.com/28801003/167972060-5dcea9af-3a5e-42f0-8527-3d82bd9a6c29.png)
+
+</details>
+
+<details>
+  <summary>email</summary>
+
+  ![general](https://user-images.githubusercontent.com/28801003/167972086-82eb1156-105e-4b2a-81bd-20e85a232a8c.png)
+
+</details>
+
+<details>
+  <summary>students</summary>
+
+  ![general](https://user-images.githubusercontent.com/28801003/167972094-286bda38-55fb-4a61-b975-f789a1fe3ec1.png)
+
+</details>
+
+<details>
+  <summary>students (after pressing "COMPLETE")</summary>
+
+  ![student](https://user-images.githubusercontent.com/28801003/167972120-3de406fe-5290-43af-97b0-5cf667dcba84.png)
+
+</details>
