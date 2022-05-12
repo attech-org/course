@@ -1,3 +1,5 @@
+# Theory of JavaScript
+
 ## Task 1
 
 Learn JS using great book https://javascript.info/. I'm not quite happy with the new order of chapters in latest editions of book, so please follow this custom way:
