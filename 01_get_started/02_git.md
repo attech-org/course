@@ -8,7 +8,7 @@
 
 ## Task 1
 
-Do nothing
+Do nothing/ok
 
 ## Task 2
 
