@@ -20,4 +20,4 @@ Make your CV responsive by using media queries and flexbox.
 
 Here you're going to work with code that was implemented by YOU just a WEEK AGO. Try to feel and imagine what happens in a months...
 
-If working with your own fresh code it's hard, just think how hard to work with someone else code. That's why good developer should try to match some best practices and patterns, and it's really hot topic. If you interested in that, just research about "tab vs spaces", "standard vs prettier", and it's about code styling. Later we'll talk more about that, but for now I think it's important for you to know "why" clean code it's main measurement of developer.
+If it's hard to work with your own pretty fresh code, just think how hard to work with someone else code. That's why good developer should try to match some best practices and patterns, and it's really hot topic. If you interested in that, just research about "tab vs spaces", "standard vs prettier", and it's about code styling. Later we'll talk more about that, but for now I think it's important for you to know "why" clean code it's main measurement of developer.

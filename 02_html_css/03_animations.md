@@ -1,22 +1,24 @@
 # CSS animations and pseudo-classes
 
-Create a new repo for this and results publish to GitHub Pages.
+Create a new repo for these tasks. Publish completed tasks to GitHub Pages.
 
 ## Task 0
+
 Research next topics:
+
 - "CSS animations"
 - "CSS pseudo-classes"
 
 ## Task 1
-Using only HTML and CSS implement next animation of rotating element. Should rotate infinite after page load.
-- https://miro.medium.com/proxy/1*aVtWSMlk__ueJnwtebWv9Q.gif
+
+Using only HTML and CSS implement next button animation.
+
+1. ![button](https://user-images.githubusercontent.com/28801003/166154150-153b45b3-9cb8-4517-9e96-e5151d4b851a.gif)
+2. ![button with text](https://user-images.githubusercontent.com/28801003/166155025-7912a407-1033-4a23-bfd8-77be5436e1be.gif)
+3. ![waves](https://user-images.githubusercontent.com/28801003/166154717-4cfd82df-f4ce-4ee4-8da4-805d15b6b9aa.gif)
 
 ## Task 2
-Using only HTML and CSS implement next button animation. Should start animation when user hover button:
-- https://i.pinimg.com/originals/2b/e9/24/2be924f383a0e91967147c95096081b2.gif
-- https://images.squarespace-cdn.com/content/v1/5ba5e044b10f25cb908c506f/1565558733719-RNYRJ85Z77TKS99RZH80/image-asset.gif
-- https://bestof.nyc3.digitaloceanspaces.com/devsnap.me/sam/flat-buttons.gif
 
-## Task 3*
 Using only HTML and CSS try to implement a timer with one rotating arrow. It should make one circle in one minute. Feel free to use [this background](https://thumbs.dreamstime.com/z/clock-dial-clock-dial-round-clock-numbers-no-minutes-141155031.jpg) or implement your own using dashed border (numbers not required).
 
+![clock](https://user-images.githubusercontent.com/28801003/166160639-f8b167c0-3807-4936-99cc-d1fc24be76b9.gif)
