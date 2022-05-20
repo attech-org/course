@@ -157,7 +157,7 @@ To start solving this level, you should pass JS basics, cycles and functions.
 
     ```js
     console.log(countSymbols("Jeremy")) // 0
-    console.log(countSymbols("Antony")) // 1
+    console.log(countSymbols("Antony")) // 0
     console.log(countSymbols("Barack Obama")) // 4
     ```
 
