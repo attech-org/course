@@ -386,7 +386,7 @@ To start solving this level, you should already know [Level 2](#level-2) + promi
    idealKitchen(orders).then((messages) => console.log(messages)); // ['margarita is done', 'diabola is done', 'peperoni is done']
    ```
 
-3. As you know, nothing is ideal, so let's create `realKitchen` async function. It should do the same thing as `idealKitchen`, like receiving orders, and resolve when all pizzas is done, but with one limitation. Third argument "ovensCount" will say how much pizzas can bake at time. Imagine it as a real kitchen with real ovens. For example, you have 10 orders and 2 ovens, so it means that you can break orders between ovens to bake all orders faster. Use only Promise API, without `async/await` syntax.
+3. As you know, nothing is ideal, so let's create `realKitchen` async function. It should do the same thing as `idealKitchen`, like receiving orders, and resolve when all pizzas is done, but with one limitation. Second argument "ovensCount" will say how much pizzas can bake at time. Imagine it as a real kitchen with real ovens. For example, you have 10 orders and 2 ovens, so it means that you can break orders between ovens to bake all orders faster. Use only Promise API, without `async/await` syntax.
 
    ```js
    const orders = [
