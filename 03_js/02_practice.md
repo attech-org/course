@@ -274,15 +274,15 @@ To start solving this level, you should already know [Level 1](#level-1) + objec
    ```
 
    ```js
-   console.log(students); // order: Max, Deny, Alex
-   console.log(teachers); // order: Tommy, Rafat, Lora
+   console.log(sortByAge(students)); // order: Max, Deny, Alex
+   console.log(sortByAge(teachers)); // order: Tommy, Rafat, Lora
    ```
 
 2. Create a function `sortBy` that will sort by provided as a second argument key. Adding support by "name" is optional, but very appreciated. Pay attention, that sorting by numbers works a bit different from sorting by string. Good thing to research.
 
    ```js
-   console.log(students, "age"); // order: Max, Deny, Alex
-   console.log(teachers, "experience"); // order: Rafat, Tommy, Lora
+   console.log(sortBy(students, "age")); // order: Max, Deny, Alex
+   console.log(sortBy(teachers, "experience")); // order: Rafat, Tommy, Lora
    ```
 
 3. Create a function `sortBySkills` that will sort by values from another array. Function should take two arguments, match skills data from one array to another using id, and sort teachers based on count of skills. Lora has "skillsId" equal 2, and it match with `["chemistry", "physics", "math", "english"]`, and it means, that she has 4 skills.
@@ -305,7 +305,7 @@ To start solving this level, you should already know [Level 1](#level-1) + objec
    ```
 
    ```js
-   console.log(teachers, skillsInfo); // order: Lora, Tommy, Rafat
+   console.log(sortBySkills(teachers, skillsInfo)); // order: Lora, Tommy, Rafat
    ```
 
 ### God-mode
@@ -348,3 +348,90 @@ To start solving this level, you should already know [Level 1](#level-1) + objec
 ## Level 3
 
 To start solving this level, you should already know [Level 2](#level-2) + promise, async/await
+
+### Pizzeria
+
+>NOTE: To count time of function run, you can use `console.time(NAME)` and `console.timeEnd(NAME)`. For example:
+>```js
+>console.time('myFunction');
+>
+>myFunction()
+>   .then(() => {
+>     console.timeEnd('myFunction'); // myFunction: 13055.76904296875 ms
+>   })
+>```
+
+1. Create `pizzaCooking` async function, that will receive two arguments: "pizzaName" - name of pizza and "ovenTime" number of milliseconds that need to bake a pizza. Function should wait for "ovenTime" milliseconds to resolve. Use only Promise API, without async/await syntax.
+
+   ```js
+   pizzaCooking("margarita", 5400).then((message) => console.log(message)); // (should resolve in 5.4s) margarita is done
+   pizzaCooking("diabola", 3200).then((message) => console.log(message)); // (should resolve in 3.2s) diabola is done
+   ```
+
+2. Create `idealKitchen` async function, that will receive one argument with array of pizza orders, and using `pizzaCooking` function from previous step for baking pizzas from order. For this task you have unlimited ovens, that means infinite count of pizzas can be baked in parallel. The `idealKitchen` function should resolve when all pizzas is done, and should return array of messages "PIZZA_NAME is done". Use only Promise API, without `async/await` syntax.
+
+   ```js
+   const orders = [
+     { name: "margarita", ovenTime: 5400 },
+     { name: "diabola", ovenTime: 3200 },
+     { name: "peperoni", ovenTime: 2500 },
+   ];
+   ```
+
+   ```js
+   // should resolve in 5.4s, because all pizzas bakes in parallel, and time shouldn't add up
+   // oven1: margarita ======> 5.4
+   // oven2: diabola   ===> 3.2
+   // oven3: peperoni  ==> 2.5
+   idealKitchen(orders).then((messages) => console.log(messages)); // ['margarita is done', 'diabola is done', 'peperoni is done']
+   ```
+
+3. As you know, nothing is ideal, so let's create `realKitchen` async function. It should do the same thing as `idealKitchen`, like receiving orders, and resolve when all pizzas is done, but with one limitation. Third argument "ovensCount" will say how much pizzas can bake at time. Imagine it as a real kitchen with real ovens. For example, you have 10 orders and 2 ovens, so it means that you can break orders between ovens to bake all orders faster. Use only Promise API, without `async/await` syntax.
+
+   ```js
+   const orders = [
+     { name: "margarita", ovenTime: 5400 },
+     { name: "bbq", ovenTime: 1800 },
+     { name: "bbq", ovenTime: 1800 },
+     { name: "margarita", ovenTime: 5400 },
+     { name: "diabola", ovenTime: 3200 },
+     { name: "peperoni", ovenTime: 2500 },
+     { name: "margarita", ovenTime: 5400 },
+     { name: "hawaiian", ovenTime: 2000 },
+     { name: "bbq", ovenTime: 1800 },
+     { name: "seafood", ovenTime: 2100 },
+     { name: "peperoni", ovenTime: 2500 },
+   ];
+   ```
+
+   ```js
+   // should resolve in max 24.4s, because we can bake only 2 pizzas in parallel
+   // oven1: margarita ======5.4=> margarita ======5.4=> diabola ===3.2=> ...
+   // oven2: bbq ==1.8=> peperoni ===2.5=> seafood ==2.1=> ...
+   realKitchen(orders, 2).then((messages) => console.log(messages)); // ['margarita is done', ...]
+   ```
+
+4. Try to improve `realKitchen` function with smarter algorithm, that baking order in fastest way. Let's call this function `chiefKitchen`. Tip: think how to split orders between ovens to have a balance. Use only Promise API, without `async/await` syntax.
+
+    ```js
+    const orders = [
+      { name: "margarita", ovenTime: 5400 },
+      { name: "bbq", ovenTime: 1800 },
+      { name: "bbq", ovenTime: 1800 },
+      { name: "margarita", ovenTime: 5400 },
+      { name: "diabola", ovenTime: 3200 },
+      { name: "peperoni", ovenTime: 2500 },
+      { name: "margarita", ovenTime: 5400 },
+      { name: "hawaiian", ovenTime: 2000 },
+      { name: "bbq", ovenTime: 1800 },
+      { name: "seafood", ovenTime: 2100 },
+      { name: "peperoni", ovenTime: 2500 },
+    ];
+    ```
+
+    ```js
+    // should resolve in max 16.9s
+    realKitchen(orders, 2).then((messages) => console.log(messages)); // ['margarita is done', ...]
+    ```
+
+5. Rewrite functions from steps 1, 2, 3, 4 with `async/await`.
