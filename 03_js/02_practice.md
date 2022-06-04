@@ -345,6 +345,125 @@ To start solving this level, you should already know [Level 1](#level-1) + objec
 
 > P.S: Don't blame me for namings, I know that "homo sapiens" and "bird" it's not specie =)
 
+### Aggregation
+
+1. Create a function `aggregate` that extends data in array of objects by ids.
+
+    ```js
+    const users = [
+      {
+        id: '8o71g807b09hvd09h1',
+        firstName: 'John',
+        lastName: 'Smith'
+      },
+      {
+        id: '9we8rn4e98161684s9',
+        firstName: 'Marcus',
+        lastName: 'Davis'
+      },
+      {
+        id: '78y78t4ygd984y5c16',
+        firstName: 'Anna',
+        lastName: 'Rogers'
+      }
+    ];
+
+    const banks = [
+      {
+        id: '8s7b4s87d4s7e7ee',
+        name: 'PrivatBank',
+        country: 'Ukraine'
+      },
+      {
+        id: 'df87ndre78r7ee13',
+        name: 'UniversalBank',
+        country: 'Ukraine'
+      },
+      {
+        id: '28741hfhdfddsaaa',
+        name: 'Revolut',
+        country: 'UK'
+      },
+    ];
+
+    const currencies = [
+      {
+        id: '127122v2',
+        short: 'UAH',
+        full: 'Ukrainian Hryvnya'
+      },
+      {
+        id: '914184g4',
+        short: 'USD',
+        full: 'United States Dollar'
+      },
+      {
+        id: '1981vgd4',
+        short: 'EUR',
+        full: 'Euro'
+      },
+    ];
+
+    const payments = [
+      {
+        id: 1,
+        sender: {
+          userId: '8o71g807b09hvd09h1',
+          bankId: 'df87ndre78r7ee13',
+          currencyId: '1981vgd4'
+        },
+        receiver: {
+          userId: '9we8rn4e98161684s9',
+          bankId: '8s7b4s87d4s7e7ee',
+          currencyId: '127122v2'
+        }
+      },
+      {
+        id: 2,
+        sender: {
+          userId: '78y78t4ygd984y5c16',
+          bankId: '28741hfhdfddsaaa',
+          currencyId: '127122v2'
+        },
+        receiver: {
+          userId: '9we8rn4e98161684s9',
+          bankId: '28741hfhdfddsaaa',
+          currencyId: '127122v2'
+        }
+      },
+    ]
+    ```
+
+    ```js
+   aggregate(payments, users, banks, currencies); // should return array of payments objects with extended data from related arrays
+
+   // example of result payment object:
+   // {
+   //     id: 1,
+   //     sender: {
+   //       userId: '8o71g807b09hvd09h1',
+   //       userData: {
+   //         id: '8o71g807b09hvd09h1',
+   //         firstName: 'John',
+   //         lastName: 'Smith'
+   //       },
+   //       bankId: 'df87ndre78r7ee13',
+   //       bankData: {
+   //         id: 'df87ndre78r7ee13',
+   //         name: 'UniversalBank',
+   //         country: 'Ukraine'
+   //       },
+   //       currencyId: '1981vgd4',
+   //       currencyData: {
+   //         id: '1981vgd4',
+   //         short: 'EUR',
+   //         full: 'Euro'
+   //       }
+   //     },
+   //     ...
+   // }
+   ```
+
 ## Level 3
 
 To start solving this level, you should already know [Level 2](#level-2) + promise, async/await
