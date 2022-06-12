@@ -34,9 +34,9 @@
   console.log(generateTransactionsHistory(50));
 
   const generateCSV = () => {
-    let result = 'id, name, salary, country';
+    let result = 'id, name, payment, country';
     for (let i = 0; i < 100; i++) {
-      result += `\n${generateString(6)}, Agent 00${i}, ${randomNumber(100, 5000)}, UA`
+      result += `\n${generateString(6)}, Agent 00${randomNumber(0, 9)}, ${randomNumber(100, 5000)}, UA`
     }
     return result;
   }
@@ -44,9 +44,20 @@
   ```
 </details>
 
+
+### Ticket #1
 <!-- string/array methods -->
 1. Count "e" letters in provided string (case-sensitive).
 2. Count ["a", "e", "o"] letters in provided string (case-sensitive).
 <!-- string/array methods + object -->
-3. Calculate final balance based on provided transactions history.
-4. Convert provided CSV formatted string to array of objects and calculate average salary. (new line symbol in JS is `\n`)
+3. Calculate final balance based on provided transactions history, using "amount" property.
+4. Convert provided CSV formatted string to array of objects and calculate average payment. (new line symbol in JS is `\n`)
+
+
+### Ticket #2
+<!-- string/array methods -->
+1. Count all letters in provided string ignoring "x" symbol (case-sensitive).
+2. Count sum of position numbers of all "r" letter in provided string (case-sensitive).
+<!-- string/array methods + object -->
+3. Calculate total expenses based on provided transactions history, using "amount" property.
+4. Convert provided CSV formatted string to array of objects, calculate total payments for each Agent and find biggest sum. (new line symbol in JS is `\n`)
