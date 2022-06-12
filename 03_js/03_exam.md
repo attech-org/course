@@ -16,7 +16,7 @@
     return result;
   }
 
-  console.log(generateString(111));
+  console.log(generateString(300));
 
   const randomNumber = (min, max) => Math.floor(Math.random() * (max - min) + min);
 
