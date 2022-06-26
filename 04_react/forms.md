@@ -44,6 +44,6 @@ Create form component `<Task1Form />` on `/forms/task-1` route using pure React 
 
 Create form component `<Task2Form />` on `/forms/task-2` route using [react-hook-form](https://www.npmjs.com/package/react-hook-form) and [yup](https://www.npmjs.com/package/yup).
 
-## Task 3
+<!-- ## Task 3
 
-Create form component `<Task3Form />` on `/forms/task-3` route using [formik](https://www.npmjs.com/package/formik) and [joi](https://www.npmjs.com/package/joi).
+Create form component `<Task3Form />` on `/forms/task-3` route using [formik](https://www.npmjs.com/package/formik) and [joi](https://www.npmjs.com/package/joi). -->
