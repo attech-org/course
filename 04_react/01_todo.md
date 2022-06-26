@@ -15,6 +15,7 @@ I can recommend to check this [one-by-one guide](https://developer.mozilla.org/e
     - user can read created tasks in list
     - user can update each task, by clicking on "edit" button near task text, changing task text in input and pressing "save" button when complete
     - user can delete each task, by clicking on "delete" button near task text
+4. Styles is not important at this step, so feel free to style this app as you want, but only with pure CSS.
 
 ## Level 2
 
