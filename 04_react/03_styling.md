@@ -2,8 +2,8 @@
 
 ## Research
 1. Read "getting started" documentation of [styled-components](https://styled-components.com/)
-2. [Quick guide about SCSS(Sass)](https://sass-lang.com/guide)
-3. [css-modules](https://github.com/css-modules/css-modules)
+2. [Quick guide about SCSS(Sass)](https://sass-lang.com/guide) and [Sass in create-react-app](https://create-react-app.dev/docs/adding-a-sass-stylesheet)
+3. [css-modules](https://github.com/css-modules/css-modules) and [css-modules in create-react-app](https://create-react-app.dev/docs/adding-a-css-modules-stylesheet/)
 
 ## Level 1
 
